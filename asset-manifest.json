@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://nagasai19.github.io/csb-pqo3zk/static/css/main.ec634555.css",
+    "main.js": "https://nagasai19.github.io/csb-pqo3zk/static/js/main.a68f4846.js",
+    "index.html": "https://nagasai19.github.io/csb-pqo3zk/index.html",
+    "main.ec634555.css.map": "https://nagasai19.github.io/csb-pqo3zk/static/css/main.ec634555.css.map",
+    "main.a68f4846.js.map": "https://nagasai19.github.io/csb-pqo3zk/static/js/main.a68f4846.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec634555.css",
+    "static/js/main.a68f4846.js"
+  ]
+}
